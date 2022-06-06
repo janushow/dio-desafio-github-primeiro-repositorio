@@ -1,0 +1,2 @@
+Link do GIT: https://git-scm.com/
+o Git é um terminal extendido para otimizar o uso do GIT.
